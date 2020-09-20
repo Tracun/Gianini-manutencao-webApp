@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/assets/noImage.gif": "2ccfb50741a3b02fbced57c81533d43b",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
-"assets/NOTICES": "881c2869366f05ce16238fe4718b9bcf",
+"assets/NOTICES": "09146ebba9f922d4ccb526eff1d34579",
 "assets/packages/country_pickers/assets/ad.png": "8312ea200df9dd539e27c116939db42c",
 "assets/packages/country_pickers/assets/ae.png": "7ff210c9d922e6047b30241b5176948b",
 "assets/packages/country_pickers/assets/af.png": "4b0f402972e53c96146b67d621682070",
